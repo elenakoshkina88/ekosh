@@ -45,6 +45,10 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
 }
+.header-skype {
+  padding-left: 25px;
+  background-image: url("img/icon-skype-header.svg");
+}
 
 .hero-image {
   margin-bottom: 620px;
@@ -159,7 +163,8 @@ body {
 }
 
 .button {
-  padding: 6px 20px;
+  padding: 6px 21px;
+  margin-bottom: 15px;
   display: inline-block;
   vertical-align: baseline;
   text-decoration: none;
@@ -191,4 +196,12 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+.footer-skype {
+  padding-left: 25px;
+  background-image: url("img/icon-skype-footer.svg");
+  color:#fff;
+}
+.img{
+	margin-left: 155px;
 }
